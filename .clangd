@@ -1,0 +1,5 @@
+CompileFlags:
+  Add: [-Wall -Wextra -Wpedantic -Werror -stdc]
+
+InlayHints:
+  Designators: false
